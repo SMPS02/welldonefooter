@@ -1,0 +1,92 @@
+*{
+
+    margin:0;
+
+}
+.P1{
+
+    width: 100%;
+    height: 1000px;
+}
+footer{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 250px;
+    background-color: rgb(29, 28, 28);
+}
+.lineas{
+
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+p{
+
+    color: gray;
+    margin-top: 5px;
+}
+h4{
+
+    font-size: 18px;
+}
+.ultimalinea{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    color: white;
+
+}
+input{
+
+    width: 150px;
+    height: 25px;
+    border-radius: 5%;
+    border-style: none;
+    border: 1px solid rgb(194, 193, 193);
+}
+#Boton{
+
+    width: 80px;
+    height: 30px;
+    margin-left: 2px;
+    border-radius: 5%;
+    border-style: none;
+    background-color: rgb(32, 32, 255);
+    color: white;
+}
+.duo{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
+.linea{
+
+    width: 70%;
+    height: 1px;
+    background-color: rgba(207, 203, 203, 0.37);
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.segundaParte{
+
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 150px;
+    background-color:rgb(29, 28, 28); ;
+}
+.partefinal{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px ;
+
+
+
+}
